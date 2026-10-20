@@ -4,6 +4,7 @@ A console-based Rock Paper Scissors game built with JavaScript as part of [The O
 
 ## How to Play
 
+0. Just click the link [OPEN THE GAME](https://luchenko04.github.io/rock-paper-scissors/)
 1. Open `index.html` in your browser.
 2. Open the developer console (`F12` → **Console**).
 3. A prompt appears each round: type `rock`, `paper` or `scissors` (any letter case works).
